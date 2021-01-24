@@ -1,0 +1,28 @@
+==========================
+Students: VictoriaAverage grade65.8
+Subject HistoryGrade: 75
+Subject LiteratureGrade: 66
+Subject MathematicsGrade: 73
+Subject ChemistryGrade: 50
+Subject PhysicsGrade: 65
+==========================
+Students: JamesAverage grade72.0
+Subject MathematicsGrade: 75
+Subject PhysicsGrade: 80
+Subject ChemistryGrade: 80
+Subject HistoryGrade: 55
+Subject LiteratureGrade: 70
+==========================
+Students: AlexAverage grade82.8
+Subject MathematicsGrade: 89
+Subject LiteratureGrade: 90
+Subject ChemistryGrade: 75
+Subject PhysicsGrade: 65
+Subject HistoryGrade: 95
+==========================
+Students: AntonyAverage grade86.4
+Subject PhysicsGrade: 91
+Subject LiteratureGrade: 78
+Subject MathematicsGrade: 93
+Subject HistoryGrade: 82
+Subject ChemistryGrade: 88
