@@ -1,6 +1,8 @@
 package learn5;
 
-public class SubjectGrades {
+import java.io.Serializable;
+
+public class SubjectGrades implements Serializable{
 	private final String subject;
 	private final int grade;
 	
